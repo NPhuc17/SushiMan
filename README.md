@@ -2,7 +2,7 @@
 
 ## Clone giao diện website SushiMan
 
-##Công nghệ
+## Công nghệ
 - HTML, CSS
 - Javascript, AOS
 - TailwindCSS
